@@ -1,3 +1,5 @@
-# v1.1.0
+# v1.2.0
 
 ## Feature 1
+
+## Feature 2
